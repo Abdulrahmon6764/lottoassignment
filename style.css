@@ -1,0 +1,26 @@
+*{
+    margin: none;
+    padding: none;
+    list-style-type: none;
+}
+
+#demo01{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#demo01 h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#demo01 input{
+    margin-bottom: 50px;
+    width: 550px;
+    border-radius: 50px;
+    height: 50px;
+    border-color: brown;
+}
+#demo1{
+    color: red;
+}
